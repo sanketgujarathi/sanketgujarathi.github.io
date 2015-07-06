@@ -233,8 +233,8 @@ body {
     /* IE 10+ */
     color: #FFFFFF;
 }
-.signup-header h2{
-float:left;
+.signupBg h2{
+color:#d3d3d3  ;
 }
 .signup-header img{
 float:right;
